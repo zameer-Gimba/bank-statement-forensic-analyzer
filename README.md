@@ -4,6 +4,10 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bank-statement-forensic-analyzer.streamlit.app/)
+
+**Live demo:** https://bank-statement-forensic-analyzer.streamlit.app/ - click **Analyse demo case**.
+
 **Automated first-pass analysis of bank statements for financial crime investigations.**
 
 In fraud and money-laundering cases, investigators receive bank statements for many accounts from several banks - each in its own format, often as PDF - and work through them largely by hand. This tool reads them all, checks they have not been tampered with, traces the money across accounts, and flags the patterns investigators look for, citing the exact transactions behind every finding.
