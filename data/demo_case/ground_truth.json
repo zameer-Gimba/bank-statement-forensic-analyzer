@@ -1,0 +1,145 @@
+{
+  "accounts": {
+    "5977775184": {
+      "name": "AFOLABI YUSUF EMEKA",
+      "bank": "Savanna Bank",
+      "role": "collector",
+      "typologies": [
+        "fan_in",
+        "pass_through"
+      ],
+      "secondary": [],
+      "transactions": 190
+    },
+    "9764854420": {
+      "name": "CHUKWU UCHE TUNDE",
+      "bank": "Lagoon Bank",
+      "role": "mule",
+      "typologies": [
+        "pass_through",
+        "rapid_cash_out"
+      ],
+      "secondary": [],
+      "transactions": 148
+    },
+    "8826177309": {
+      "name": "LAWAL UCHE NKECHI",
+      "bank": "Sahel Bank",
+      "role": "mule",
+      "typologies": [
+        "pass_through",
+        "rapid_cash_out"
+      ],
+      "secondary": [],
+      "transactions": 136
+    },
+    "7713440517": {
+      "name": "YAKUBU RUKAYYA MARYAM",
+      "bank": "Savanna Bank",
+      "role": "mule",
+      "typologies": [
+        "pass_through",
+        "rapid_cash_out"
+      ],
+      "secondary": [],
+      "transactions": 131
+    },
+    "3943930471": {
+      "name": "LAWAL IBRAHIM NKECHI",
+      "bank": "Lagoon Bank",
+      "role": "consolidator",
+      "typologies": [
+        "fan_out"
+      ],
+      "secondary": [
+        "pass_through"
+      ],
+      "transactions": 137
+    },
+    "4325694186": {
+      "name": "YAKUBU NGOZI SEGUN",
+      "bank": "Sahel Bank",
+      "role": "structurer",
+      "typologies": [
+        "structuring"
+      ],
+      "secondary": [],
+      "transactions": 134
+    },
+    "7848838226": {
+      "name": "OKONKWO INTEGRATED VENTURES LTD",
+      "bank": "Savanna Bank",
+      "role": "round_trip",
+      "typologies": [
+        "round_trip"
+      ],
+      "secondary": [
+        "pass_through"
+      ],
+      "transactions": 128
+    },
+    "8077764727": {
+      "name": "CHUKWU CONCEPTS HUB LTD",
+      "bank": "Lagoon Bank",
+      "role": "round_trip",
+      "typologies": [
+        "round_trip"
+      ],
+      "secondary": [
+        "pass_through"
+      ],
+      "transactions": 125
+    },
+    "6034922498": {
+      "name": "BELLO GLOBAL RESOURCES LTD",
+      "bank": "Sahel Bank",
+      "role": "round_trip",
+      "typologies": [
+        "round_trip"
+      ],
+      "secondary": [
+        "pass_through"
+      ],
+      "transactions": 112
+    },
+    "8292461557": {
+      "name": "ADEBAYO SANI ZAINAB",
+      "bank": "Savanna Bank",
+      "role": "dormant",
+      "typologies": [
+        "dormant_reactivation"
+      ],
+      "secondary": [
+        "pass_through"
+      ],
+      "transactions": 10
+    },
+    "4483130107": {
+      "name": "NNAMDI NKECHI FUNMI",
+      "bank": "Lagoon Bank",
+      "role": "normal",
+      "typologies": [],
+      "secondary": [],
+      "transactions": 153
+    },
+    "7195914644": {
+      "name": "NWOSU LOGISTICS VENTURES LTD",
+      "bank": "Sahel Bank",
+      "role": "normal_business",
+      "typologies": [],
+      "secondary": [],
+      "transactions": 1038
+    },
+    "6663903139": {
+      "name": "YAKUBU LINKS ENTERPRISES LTD",
+      "bank": "Savanna Bank",
+      "role": "normal_contractor",
+      "typologies": [],
+      "secondary": [],
+      "transactions": 106
+    }
+  },
+  "linked_external": {
+    "8345346878": "AFOLABI NKECHI FATIMA"
+  }
+}

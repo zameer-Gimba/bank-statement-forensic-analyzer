@@ -1,0 +1,71 @@
+{
+  "cases": 50,
+  "seeds": [
+    1000,
+    1049
+  ],
+  "typologies": [
+    {
+      "typology": "Pass-through (mule) activity",
+      "planted": 200,
+      "detected": 200,
+      "correct": 200,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Structuring below reporting threshold",
+      "planted": 50,
+      "detected": 50,
+      "correct": 50,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Fan-in from many senders",
+      "planted": 50,
+      "detected": 50,
+      "correct": 50,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Fan-out to many recipients",
+      "planted": 50,
+      "detected": 50,
+      "correct": 50,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Round-tripping",
+      "planted": 150,
+      "detected": 150,
+      "correct": 150,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Dormant account reactivated",
+      "planted": 50,
+      "detected": 50,
+      "correct": 50,
+      "precision": 1.0,
+      "recall": 1.0
+    },
+    {
+      "typology": "Rapid cash-out",
+      "planted": 150,
+      "detected": 150,
+      "correct": 150,
+      "precision": 1.0,
+      "recall": 1.0
+    }
+  ],
+  "accounts": {
+    "suspicious_accounts": 500,
+    "suspicious_flagged": 500,
+    "clean_accounts": 150,
+    "clean_flagged": 0
+  }
+}
